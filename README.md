@@ -57,7 +57,7 @@ Para visualizar os mapas, basta clicar nos links acima ou abrir os arquivos HTML
 
 1. Clone este repositório:
 ```
-git clone [URL_DO_REPOSITÓRIO]
+git clone (https://github.com/victorhprada/sales_analysis.git)
 ```
 
 2. Instale as dependências necessárias:
@@ -98,13 +98,10 @@ Possíveis melhorias para o projeto:
 - Expandir a análise geográfica com mais detalhes
 - Criar um dashboard interativo
 
-## 📄 Licença
-
-Este projeto está sob a licença [INSERIR TIPO DE LICENÇA].
 
 ## 👥 Autores
 
-- [SEU NOME]
+- Victor Hugo Prada Teixeira
 
 ---
 
