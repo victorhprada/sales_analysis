@@ -41,11 +41,23 @@ O projeto gera diversos gráficos e visualizações:
 - Gráficos de barras para análise de satisfação do cliente
 - Mapas de calor interativos para análise geográfica
 
+### Mapas de Calor Interativos
+
+O projeto gera os seguintes arquivos HTML com mapas de calor interativos:
+
+- [Mapa de Vendas - Loja 1](mapa_vendas_loja1.html)
+- [Mapa de Vendas - Loja 2](mapa_vendas_loja2.html)
+- [Mapa de Vendas - Loja 3](mapa_vendas_loja3.html)
+- [Mapa de Vendas - Loja 4](mapa_vendas_loja4.html)
+- [Mapa de Vendas - Todas as Lojas](mapa_vendas_todas_lojas.html)
+
+Para visualizar os mapas, basta clicar nos links acima ou abrir os arquivos HTML em qualquer navegador web. Os mapas são interativos e permitem zoom, pan e visualização de detalhes específicos.
+
 ## 🚀 Como Executar
 
 1. Clone este repositório:
 ```
-git clone (https://github.com/victorhprada/sales_analysis.git)
+git clone [URL_DO_REPOSITÓRIO]
 ```
 
 2. Instale as dependências necessárias:
@@ -86,10 +98,13 @@ Possíveis melhorias para o projeto:
 - Expandir a análise geográfica com mais detalhes
 - Criar um dashboard interativo
 
+## 📄 Licença
+
+Este projeto está sob a licença [INSERIR TIPO DE LICENÇA].
 
 ## 👥 Autores
 
-- Victor Hugo Prada Teixeira
+- [SEU NOME]
 
 ---
 
